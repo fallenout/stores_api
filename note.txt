@@ -1,0 +1,47 @@
+ Flask che abbia: 
+
+
+# done
+# /stores
+1)un endpoint che riceva il JSON in allegato e salvi i dati. 
+
+
+# done
+# /stores
+2) un endpoint che restituisca tutti i ristoranti con le loro caratteristiche. 
+ 
+
+# done marshmallow + modelli
+3)Definisci un modello dati che ritieni essere adeguato per organizzare i dati e validarli. 
+
+
+#  done sqlite3
+4)I dati possono essere salvati come ritieni piu' opportuno (file, db-sql-lite, in memoria,...). 
+
+Il servizio deve avere un: 
+
+
+# done
+#5)Dockerfile per porter effettuare il deploy in un container Docker. 
+
+# done readme 
+# 6)un README di istruzioni 
+
+
+
+
+
+
+# gthub repo
+-->8)Quando hai finito inviaci il link al repository (prenditi anche il lunedì mattina se ti servisse). Ti chiediamo inoltre di non inserire alcun riferimento a Primaton nel test. 
+
+
+
+# istruzioni
+# mkdir myapp
+# cd myapp
+# python3 -m venv venv
+# source venv/bin/activate
+# pip install flask
+# pip freeze > requirements.txt
+# flask run --port 8000
