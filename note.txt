@@ -1,6 +1,3 @@
- Flask che abbia: 
-
-
 # done
 # /stores
 1)un endpoint che riceva il JSON in allegato e salvi i dati. 
@@ -33,7 +30,7 @@ Il servizio deve avere un:
 
 
 # gthub repo
--->8)Quando hai finito inviaci il link al repository (prenditi anche il lunedì mattina se ti servisse). Ti chiediamo inoltre di non inserire alcun riferimento a Primaton nel test. 
+-->8)Quando hai finito inviaci il link al repository 
 
 
 
