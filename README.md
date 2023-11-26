@@ -13,7 +13,7 @@ Sono presenti i due endpoint da testare:
 
 
 
-  - sshttp://127.0.0.1:5001/stores (da chiamre con metodo GET)
+  - http://127.0.0.1:5001/stores (da chiamre con metodo GET)
  
  Restituisce la lista degli stores contenuti nella tabella stores e le relative informazioni presenti per ogni stores sulla tabella infos
 
